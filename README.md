@@ -38,7 +38,7 @@ The Java Quiz Application is a simple GUI-based quiz program implemented in Java
 
 ## Screenshots:
 ![Screenshot (74)](https://github.com/ykhandelwal571/Java-Quiz-Application/assets/98113808/b64b674f-fbbf-4cd2-a074-10044e41d0a6)
-![Screenshot (75)](https://github.com/ykhandelwal571/Java-Quiz-Application/assets/98113808/73d88114-e898-4043-b318-135dd0ec7960)
+![Screenshot (80)](https://github.com/ykhandelwal571/Java-Quiz-Application/assets/98113808/c7ecb871-0740-41ba-a938-32547cd7aa21)
 ![Screenshot (76)](https://github.com/ykhandelwal571/Java-Quiz-Application/assets/98113808/d1e2ae3c-c05a-4250-a9fe-ffab39b85255)
 ![Screenshot (79)](https://github.com/ykhandelwal571/Java-Quiz-Application/assets/98113808/9c89018f-7c94-4bc7-a389-4ed54e7adc8d)
 
